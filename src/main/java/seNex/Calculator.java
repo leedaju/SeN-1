@@ -11,6 +11,7 @@ public class Calculator {
 		result = x-y;
 	}
 	
+	
 	public int getResult() {
 		return result;
 	}

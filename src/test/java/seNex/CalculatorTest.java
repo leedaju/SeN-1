@@ -18,6 +18,5 @@ public class CalculatorTest {
 		cal.sub(20,  10);
 		assertEquals(10, cal.getResult());
 	}
-
 }
 
